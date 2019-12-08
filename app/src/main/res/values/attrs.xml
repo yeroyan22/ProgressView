@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomProgressView">
+        <attr name="progress" />
+        <attr name="progress_color" />
+        <attr name="progress_width" />
+        <attr name="background_color" />
+        <attr name="shader_color" />
+    </declare-styleable>
+</resources>
